@@ -1,6 +1,7 @@
 exclude:
 - /AppTimer/AppTimer/main.cpp
 - /AppTimer/LibTimer/include/.*
+- /Timer/Timer/main.cpp
 - /Timer/dist/include/.*
 - /Timer/docs/html/.*
 component_depth: 1
