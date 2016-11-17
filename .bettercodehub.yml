@@ -1,4 +1,5 @@
 exclude:
+- /AppTimer/AppTimer/main.cpp
 - /AppTimer/LibTimer/include/.*
 - /Timer/dist/include/.*
 - /Timer/docs/html/.*
