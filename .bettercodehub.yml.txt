@@ -1,0 +1,9 @@
+exclude:
+- /AppTimer/LibTimer/include/.*
+- /Timer/dist/include/.*
+- /Timer/docs/html/.*
+component_depth: 1
+languages:
+- cpp
+- javascript
+- script
